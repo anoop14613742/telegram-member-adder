@@ -5,6 +5,10 @@ Consent-based community onboarding software for Telegram groups and channels you
 [![Latest Release](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/anoop14613742/telegram-member-adder/releases)
 [![License](https://img.shields.io/badge/License-Commercial-red)](./LICENSE)
 
+## Preview
+
+![Telegram Member Adder onboarding preview](./assets/preview.svg)
+
 ## Features
 
 - Member onboarding workflows for owned or administered communities
