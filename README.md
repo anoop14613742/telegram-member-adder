@@ -7,7 +7,7 @@ Consent-based community onboarding software for Telegram groups and channels you
 
 ## Preview
 
-![Telegram Member Adder onboarding preview](./assets/preview.svg)
+![Telegram Member Adder software screenshot](./assets/telepilot-pro.jpg)
 
 ## Features
 
